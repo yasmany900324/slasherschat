@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: slashers_chat
+    database_user: postgres
+    database_password: slashers250318
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 271f7e2dd896b4d052ffa3681ca56e088c703a39
